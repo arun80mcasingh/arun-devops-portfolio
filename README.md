@@ -1,4 +1,3 @@
-# arun-devops-portfolio
 <h1 align="center">Hi 👋, I'm Arun Singh</h1>
 <h3 align="center">🚀 DevOps Engineer | Automation Specialist | 8+ Years of Experience</h3>
 
