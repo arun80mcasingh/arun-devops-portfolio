@@ -40,7 +40,7 @@ I’m *Arun Singh*, a result-driven **DevOps & Cloud Engineer** with **8 years o
 
 - 📧 Email: arun.devops.engineer@gmail.com  
 - 💼 LinkedIn: [www.linkedin.com/in/arunsingh-devops)  
-- 🌐 Portfolio: [arunsingh.dev](https://arunsingh.dev) *(optional)*
+- 🌐 Portfolio: 
 
 ---
 
