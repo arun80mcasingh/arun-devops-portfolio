@@ -47,6 +47,6 @@ I’m *Arun Singh*, a result-driven **DevOps & Cloud Engineer** with **8 years o
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Arun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arun80mcasingh&show_icons=true&theme=tokyonight" alt="Arun's GitHub Stats" />
   <br/>
   <img src="htt
