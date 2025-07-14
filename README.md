@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arun Singh</h1>
-<h3 align="center">🚀 DevOps Engineer | Automation Specialist | 8+ Years of Experience</h3>
+<h3 align="center">🚀 DevOps Engineer | Automation Specialist | 8 Years of Experience</h3>
 
 ---
 
 ### 👨💻 About Me
 
-I’m *Arun Singh*, a result-driven **DevOps & Cloud Engineer** with **8+ years of total experience**, including **5+ years in DevOps** and **3+ years in cloud-native technologies**. I specialize in designing, automating, and optimizing mission-critical deployments on **Microsoft Azure**, implementing **CI/CD pipelines**, and driving **Infrastructure as Code (IaC)** excellence.
+I’m *Arun Singh*, a result-driven **DevOps & Cloud Engineer** with **8 years of total experience**, including **5 years in DevOps** and **3 years in cloud-native technologies**. I specialize in designing, automating, and optimizing mission-critical deployments on **Microsoft Azure**, implementing **CI/CD pipelines**, and driving **Infrastructure as Code (IaC)** excellence.
 
 - ☁ Building scalable and secure infrastructure on **Azure Cloud**
 - ⚙ Designing robust **CI/CD pipelines** with Azure DevOps, GitHub Actions, and GitLab CI
